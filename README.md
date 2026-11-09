@@ -4,7 +4,7 @@ Open `index.html` in a browser to preview. Everything is static, so hosting is f
 
 ## Where to edit
 - Menu and prices: `menu.html` (search the item name). Chole Samosa ₹30 also appears in `index.html`.
-- Phone number: search `919084572935` in all files (Ctrl+Shift+F in VS Code) and replace.
+- Phone number: search `919410709469` in all files (Ctrl+Shift+F in VS Code) and replace.
 - Chole Samosa photo: `index.html`, find the HTML comment "Chole Samosa photo".
 - New photos: put in `images/` (WebP or JPG, under 300 KB), then add them in `gallery.html`.
 
@@ -19,7 +19,7 @@ Open `index.html` in a browser to preview. Everything is static, so hosting is f
 8. **Google Business Profile** (free): claim the dhaba listing, add the website, hours, photos. This drives most local traffic.
 
 ## Test before announcing
-- On a real phone: tap every Call button, it should open the dialer with +91 9084572935. (On a laptop, `tel:` links may do nothing; that is normal.)
+- On a real phone: tap every Call button, it should open the dialer with +91 9410709469. (On a laptop, `tel:` links may do nothing; that is normal.)
 - Chrome DevTools: Console has no red errors, Network has no 404s.
 - Lighthouse (DevTools): Performance, SEO, Accessibility all 90+.
 - Right-click > View Page Source on `menu.html`: the menu text should be visible in the HTML.
